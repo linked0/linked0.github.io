@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body>
 
+<body class="loading ajax-loading" data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
   <div class="wrapper">
     {{ content }}
   </div>

@@ -5,3 +5,20 @@ $gray: #ecf0f1;
 $dark-gray: #a0a0a0;
 $dark-blue: #263959;
 $dark: #333030;
+
+$overlay-background-color: {{ site.data.settings.color_settings.overlay_background_color }};
+$overlay-text-color: {{ site.data.settings.color_settings.overlay_text_color }};
+$overlay-accent-color: {{ site.data.settings.color_settings.overlay_accent_color }};
+
+
+$break-phonel: 480px;
+$break-tabletp: 768px;
+$break-tabletl: 1024px;
+$break-laptop: 1220px;
+$break-desktop: 1420px;
+
+$menu-small: {{ site.data.settings.font_settings.menu.small_size }}px;
+$menu-medium: {{ site.data.settings.font_settings.menu.medium_size }}px;
+$menu-large: {{ site.data.settings.font_settings.menu.large_size }}px;
+$menu-weight: {{ site.data.settings.font_settings.menu.weight }};
+$menu-spacing: {{ site.data.settings.font_settings.menu.letter_spacing }}em;

@@ -2,6 +2,12 @@
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
+## Create index-min.js
+```
+npm install -g uglify-js
+uglifyjs index.js -o index-min.js
+```
+
 ## Demo
 
 Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)

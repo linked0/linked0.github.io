@@ -15,6 +15,126 @@ html {
   /* 2 */
 }
 
+/* Jay's Custom Styles
+   ========================================================================== */
+/**
+ * Remove the margin in all browsers (opinionated).
+ */
+ 
+ @mixin mq($media) {
+	@if $media == phonel {
+		@media only screen and (min-width: $break-phonel) { @content; }
+	}
+	@else if $media == tabletp {
+		@media only screen and (min-width: $break-tabletp) { @content; }
+	}
+	@else if $media == tabletl {
+		@media only screen and (min-width: $break-tabletl) { @content; }
+	}
+	@else if $media == laptop {
+		@media only screen and (min-width: $break-laptop) { @content; }
+	}
+	@else if $media == desktop {
+		@media only screen and (min-width: $break-desktop) { @content; }
+	}
+}
+
+.header__content {
+
+	@include mq(tabletl) {
+		position: relative;
+		min-height: 100vh;
+		padding: 40px 40px 135px;
+	}
+
+	@include mq(laptop) {
+		padding: 60px 60px 145px;
+	}
+}
+
+.menu__list {
+	list-style: none;
+	margin: 0 auto;
+	padding: 12px 20px;
+
+	@include mq(tabletp) {
+		padding: 30px 40px;
+	}
+
+	@include mq(tabletl) {
+		margin: 0;
+		padding: 0;
+	}
+}
+
+.menu__list__item {
+  padding: 5px 0;
+}
+
+.menu__list__item__link {
+	font-size: 16px;
+	font-weight: 500;
+	color: #343b43;
+	padding: 10px 0;
+  text-decoration: none;
+
+	&:hover {
+		color: #0000FF;
+	}
+	
+	&.active-link {
+		color: #0000FF;
+	}
+}
+
+.no-underline a {
+  text-decoration: none;
+}
+
+.menu--open .menu__toggle__icon {
+
+	span:before, span:after {
+		background: $overlay-text-color !important;
+	}
+		
+	span {
+		background-color: transparent !important;
+	}
+	
+	span:before,
+	span:after {
+		top: 0;
+	}
+	
+	span:before {
+		@include rotate(45);
+	}
+
+	span:after {
+		@include rotate(-45);
+	}
+}
+
+.menu--open .menu__wrap {
+	visibility: visible;
+	opacity: 1;
+}
+
+.menu__list {
+	list-style: none;
+	margin: 0 auto;
+	padding: 12px 20px;
+
+	@include mq(tabletp) {
+		padding: 30px 40px;
+	}
+
+	@include mq(tabletl) {
+		margin: 0;
+		padding: 0;
+	}
+}
+
 /* Sections
    ========================================================================== */
 /**
@@ -930,7 +1050,7 @@ table tfoot td {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 240px;
+  width: 300px;
   height: 100%;
   padding: 20px 10px;
   background-color: #ffffff;

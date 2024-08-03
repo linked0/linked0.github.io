@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to Jekyll Works"
-date:   2024-08-02 13:24:38 +0900
+title: "01. Bosagora Mainnet"
+date:   2024-07-30 00:00:01 +0900
 categories: jekyll update
 img: bosagora-1.png
 ---
