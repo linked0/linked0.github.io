@@ -3,7 +3,7 @@ layout: post
 title: "03. Public Funding DAO (Votera)"
 date: 2022-05-01 00:00:03 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: # Add image post (optional)
+img: votera-title.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [DAO, Votera]
 ---
@@ -26,11 +26,11 @@ Public Funding DAO Service (Votera)
 | 프로젝트 내용 | 제안 저장, 투표, 개표 등의 과정을 컨트랙트로 개발 <br> 모바일이나 웹을 통해서 제안을 생성하고, 투표하는 UI 개발 <br> 익명성 보장을 위하여, 개표전 투표 내용을 서버에 보관하는 기능 |
 | 주요 업무 및 상세 역할| 스마트 컨트랙트 개발 <br> 배포 및 운영 테스트 |
 | 사용 기술 | Solidity, TypeScript, Hardhat |
-| 깃헙 및 사이트 | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract) |
+| 깃헙 및 사이트 | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract) <br> [https://medium.com/@bosagorablog](https://medium.com/@bosagorablog)|
 
 
 ### Screenshots
-![I and My friends]({{site.baseurl}}/assets/img/votera-1.png)
+![Image 1]({{site.baseurl}}/assets/img/votera-1.png)
 
 ---
 ## For English Users
@@ -48,7 +48,7 @@ Public Funding DAO Service (Votera)
 | Project Details | Development of contracts for processes such as proposal storage, voting, and ballot counting <br> Development of UI for proposal creation and voting via mobile or web <br> Function to store votes on the server before counting to ensure anonymity |
 | Major Tasks and Roles | Smart contract development <br> Deployment and operational testing |
 | Technologies Used | Solidity, TypeScript, Hardhat |
-| GitHub and Website | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract) |
+| GitHub and Website | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract)|
 
 ### Screenshots
-![I and My friends]({{site.baseurl}}/assets/img/votera-1.png)
+![Image 1]({{site.baseurl}}/assets/img/votera-1.png)

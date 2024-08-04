@@ -3,7 +3,7 @@ layout: post
 title: "04. NFT Marketplace (BoaSpace)"
 date: 2022-10-01 00:00:04 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img:  # Add image post (optional)
+img: boaspace-title.png # Add image post (optional)
 tags: [NFT, Marketplace] # add tag
 ---
 NFT Marketplace (BoaSpace)
@@ -28,7 +28,7 @@ OpenSea 웹 페이지를 역공학하여 웹과 서버 개발 |
 
 
 ### Screenshots
-![I and My friends]({{site.baseurl}}/assets/img/boaspace-1.png)
+![Image 1]({{site.baseurl}}/assets/img/boaspace-1.png)
 
 ---
 ## For English Users
@@ -48,4 +48,4 @@ OpenSea 웹 페이지를 역공학하여 웹과 서버 개발 |
 | GitHub and Website | [https://github.com/linked0/boa-space-contracts](https://github.com/linked0/boa-space-contracts) <br> [https://github.com/linked0/boa-space-seaport-js](https://github.com/linked0/boa-space-seaport-js) <br> [https://boaspace.io/](https://boaspace.io/) |
 
 ### Screenshots
-![I and My friends]({{site.baseurl}}/assets/img/boaspace-1.png)
+![Image 1]({{site.baseurl}}/assets/img/boaspace-1.png)

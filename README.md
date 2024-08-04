@@ -8,6 +8,11 @@ npm install -g uglify-js
 uglifyjs index.js -o index-min.js
 ```
 
+```
+bundle update
+bundle exec jekyll serve
+```
+
 ## Demo
 
 Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)

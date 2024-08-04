@@ -3,9 +3,10 @@ layout: post
 title: "05. Smart Contract Hacking"
 date: 2024-06-01 00:00:05 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: # Add image post (optional)
+img: hacking-title.jpeg
 tags: [Smart Contract, Hacking] # add tag
 ---
+Smart contract hacking exercises with the solutions.
 
 ### Overview
 1. 스마트 컨트랙트 해킹 사례를 정리

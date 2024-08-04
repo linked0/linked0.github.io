@@ -3,7 +3,7 @@ layout: post
 title: "06. zkSync L2 Layer"
 date: 2024-07-01 00:00:06 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: # Add image post (optional)
+img: zksync-title.png
 tags: [L2, zkSync] # add tag
 ---
 zkSync L2 Layer Implementation
@@ -30,7 +30,7 @@ zkSync L2 Layer Implementation
 ### Documentation & Screenshots
 - zksync-web3와 hardhat-zksync-deploy 관계
 - hardhat-zksync-deploy와 zksync-server의 관계
-![I and My friends]({{site.baseurl}}/assets/img/zksync-1.png)
+![Image 1]({{site.baseurl}}/assets/img/zksync-1.png)
 
 ---
 ## For English Users
@@ -53,4 +53,4 @@ zkSync L2 Layer Implementation
 ### Documentation & Screenshots
 - Relationship between zksync-web3 and hardhat-zksync-deploy
 - Relationship between hardhat-zksync-deploy and zksync-serve
-![I and My friends]({{site.baseurl}}/assets/img/zksync-1.png)
+![Image 1]({{site.baseurl}}/assets/img/zksync-1.png)

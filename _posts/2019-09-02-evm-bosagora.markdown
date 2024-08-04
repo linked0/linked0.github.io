@@ -3,7 +3,7 @@ layout: post
 title: "02. EVM based Bosagora Mainnet"
 date: 2021-10-01 00:00:02 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: # Add image post (optional)
+img: evm-bosagora-title.png
 fig-caption: # Add figcaption (optional)
 tags: [Mainnet, EVM] # add tag
 ---
@@ -32,7 +32,7 @@ Development of EVM-based Blockchain Network (Bosagora)
 
 
 ### Screenshots
-![I and My friends]({{site.baseurl}}/assets/img/evm-bosagora-1.png)
+![Image 1]({{site.baseurl}}/assets/img/evm-bosagora-1.png)
 
 ---
 ## For English Users
@@ -54,4 +54,4 @@ Development of EVM-based Blockchain Network (Bosagora)
 | GitHub and Website | [https://github.com/linked0/pooh-geth](https://github.com/linked0/pooh-geth) <br> [https://github.com/linked0/pooh-prysm](https://github.com/linked0/pooh-prysm) <br> [https://bosagora.io](https://bosagora.io) |
 
 ### Screenshots
-![I and My friends]({{site.baseurl}}/assets/img/evm-bosagora-1.png)
+![Image 1]({{site.baseurl}}/assets/img/evm-bosagora-1.png)
