@@ -17,7 +17,7 @@ layout: default
     <div class="header__content">
       <div class="projects-menu">
         <ul class="menu__list">
-          {% for project in site.posts %}
+          {% for project in site.posts reversed %}
           <li class="menu__list__item">
             <a href="{{ project.url | relative_url }}" class="menu__list__item__link">{{ project.title }}</a>
           </li>

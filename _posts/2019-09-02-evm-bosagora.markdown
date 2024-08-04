@@ -1,28 +1,57 @@
 ---
 layout: post
 title: "02. EVM based Bosagora Mainnet"
-date: 2024-07-29 00:00:02 +0900
+date: 2021-10-01 00:00:02 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: workflow.jpg # Add image post (optional)
+img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Productivity, Workflow] # add tag
+tags: [Mainnet, EVM] # add tag
 ---
 
-Asymmetrical portland enamel pin af heirloom ramps authentic thundercats. Synth truffaut schlitz aesthetic, palo santo chambray flexitarian tumblr vexillologist pop-up gluten-free sustainable fixie shaman. Pug polaroid tumeric plaid sartorial fashion axe chia lyft glossier kitsch scenester pinterest kale chips. Blog etsy umami fashion axe shoreditch. Prism chambray heirloom, drinking vinegar portland paleo slow-carb. Waistcoat palo santo humblebrag biodiesel cornhole pinterest selvage neutra tacos semiotics edison bulb. Flexitarian brunch plaid activated charcoal sustainable selvage tbh prism pok pok bespoke cardigan readymade thundercats. Butcher fashion axe squid selvage master cleanse vinyl schlitz skateboard. Lomo shaman man bun keffiyeh asymmetrical listicle. Kickstarter trust fund fanny pack post-ironic wayfarers swag kitsch. Shaman pug kale chips meh squid.
+Development of EVM-based Blockchain Network (Bosagora)
 
-###  Literally pickled twee man braid
-8-bit ugh selfies, literally pickled twee man braid four dollar toast migas. Slow-carb mustache meggings pok pok. Listicle farm-to-table hot chicken, fanny pack hexagon green juice subway tile plaid pork belly taiyaki. Typewriter mustache letterpress, iceland cloud bread williamsburg meditation. Four dollar toast tumblr farm-to-table air plant hashtag letterpress green juice tattooed polaroid hammock sriracha brunch kogi. Thundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents. Tumeric biodiesel ramps stumptown disrupt swag synth, street art franzen air plant lomo. Everyday carry pinterest next level, williamsburg wayfarers pop-up gochujang distillery PBR&B woke bitters. Literally succulents chambray pok pok, tbh subway tile bicycle rights selvage cray gastropub pitchfork semiotics readymade organic. Vape flexitarian tumblr raclette organic direct trade. Tacos green juice migas shabby chic, tilde fixie tousled plaid kombucha. +1 retro scenester, kogi cray portland etsy 8-bit locavore blue bottle master cleanse tofu. PBR&B adaptogen chartreuse knausgaard palo santo intelligentsia.
+### Overview
+1. EVM 기반의 PoS 블록체인 개발
+2. geth 코드 기반 Execution Layer 개발
+3. prysm 코드 기반 Consensus Layer 개발
+4. 트랜잭션 수수료와 자동 발생되는 인플레이션이 DAO 컨트랙트에 적립되는 기능 개발
 
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
-Man bun umami keytar 90's lomo drinking vinegar synth everyday carry +1 bitters kinfolk raclette meggings street art heirloom. Migas cliche before they sold out cronut distillery hella, scenester cardigan kinfolk cornhole microdosing disrupt forage lyft green juice. Tofu deep v food truck live-edge edison bulb vice. Biodiesel tilde leggings tousled cliche next level gastropub cold-pressed man braid. Lyft humblebrag squid viral, vegan chicharrones vice kinfolk. Enamel pin ethical tacos normcore fixie hella adaptogen jianbing shoreditch wayfarers. Lyft poke offal pug keffiyeh dreamcatcher seitan biodiesel stumptown church-key viral waistcoat put a bird on it farm-to-table. Meggings pitchfork master cleanse pickled venmo. Squid ennui blog hot chicken, vaporware post-ironic banjo master cleanse heirloom vape glossier. Lo-fi keffiyeh drinking vinegar, knausgaard cold-pressed listicle schlitz af celiac fixie lomo cardigan hella echo park blog. Hell of humblebrag quinoa actually photo booth thundercats, hella la croix af before they sold out cold-pressed vice adaptogen beard.
+[Read the English version here](#for-english-users")
 
-### Man bun umami keytar
-Chia pork belly XOXO shoreditch, helvetica butcher kogi offal portland 3 wolf moon. Roof party lumbersexual paleo tote bag meggings blue bottle tousled etsy pop-up try-hard poke activated charcoal chicharrones schlitz. Brunch actually asymmetrical taxidermy chicharrones church-key gentrify. Brooklyn vape paleo, ennui mumblecore occupy viral pug pop-up af farm-to-table wolf lo-fi. Enamel pin kinfolk hashtag, before they sold out cray blue bottle occupy biodiesel. Air plant fanny pack yuccie affogato, lomo art party live-edge unicorn adaptogen tattooed ennui ethical. Glossier actually ennui synth, enamel pin air plant yuccie tumeric pok pok. Ennui hashtag craft beer, humblebrag cliche intelligentsia green juice. Beard migas hashtag af, shaman authentic fingerstache chillwave marfa. Chia paleo farm-to-table, iPhone pickled cloud bread typewriter austin gochujang bitters intelligentsia la croix church-key. Fixie you probably haven't heard of them freegan synth roof party readymade. Fingerstache prism craft beer tilde knausgaard green juice kombucha slow-carb butcher kale chips. Snackwave organic tbh ennui XOXO. Hell of woke blue bottle, tofu roof party food truck pok pok thundercats. Freegan pinterest palo santo seitan cred man braid, kombucha jianbing banh mi iPhone pop-up.
+### Introduce Project
 
->Humblebrag pickled austin vice cold-pressed man bun celiac cronut polaroid squid keytar 90's jianbing narwhal viral. Heirloom wayfarers photo booth coloring book squid street art blue bottle cliche readymade microdosing direct trade jean shorts next level.
+|   항목 | 내용 |
+| ----- | --- |
+| 작업 기간 | 2021.10 ~ 2022.06 (8개월) |
+| 인력 구성(기여도) | 노드 소프트웨어 개발 5명 / 운영 2명   (노드 개발 20%, 운영 20%, 개발 초기에만 참여함) |
+| 프로젝트 내용 | geth/prysm 기반 PoS 네트워크 노드 소프트웨어 개발 <br> 공공예산 DAO 컨트랙트에 트랜잭션 수수료 및 추가 자금 적립 <br> 데브넷/테스트넷/메인넷 운영 |
+| 주요 업무 및 상세 역할| geth 소스 분석 및 Execution Layer 개발 <br> 테스트넷 구성 운영 참여
+| 사용 기술 | Go, C, JavaScript, Shell |
+| 깃헙 및 사이트 | [https://github.com/linked0/pooh-geth](https://github.com/linked0/pooh-geth) <br> [https://github.com/linked0/pooh-prysm](https://github.com/linked0/pooh-prysm) <br> [https://bosagora.io](https://bosagora.io)
+ |
 
-Selvage messenger bag meh godard. Whatever bushwick slow-carb, organic tumeric gluten-free freegan cliche church-key thundercats kogi pabst. Hammock deep v everyday carry intelligentsia hell of helvetica. Occupy affogato pop-up bicycle rights paleo. Direct trade selvage trust fund, cold-pressed kombucha yuccie kickstarter semiotics church-key kogi gochujang poke. Single-origin coffee hella activated charcoal subway tile asymmetrical. Adaptogen normcore wayfarers pickled lomo. Ethical edison bulb shaman wayfarers cold-pressed woke. Helvetica selfies blue bottle deep v. Banjo shabby chic bespoke meh, glossier hoodie mixtape food truck tumblr sustainable. Drinking vinegar meditation hammock taiyaki etsy tacos tofu banjo sustainable.
 
-Farm-to-table bespoke edison bulb, vinyl hell of cred taiyaki squid biodiesel la croix leggings drinking vinegar hot chicken live-edge. Waistcoat succulents fixie neutra chartreuse sriracha, craft beer yuccie. Ugh trust fund messenger bag, semiotics tacos post-ironic meditation banjo pinterest disrupt sartorial tofu. Meh health goth art party retro skateboard, pug vaporware shaman. Meh whatever microdosing cornhole. Hella salvia pinterest four loko shabby chic yr. Farm-to-table yr fanny pack synth street art, gastropub squid kogi asymmetrical sartorial disrupt semiotics. Kombucha copper mug vice sriracha +1. Tacos hashtag PBR&B taiyaki franzen cornhole. Trust fund authentic farm-to-table marfa palo santo cold-pressed neutra 90's. VHS artisan drinking vinegar readymade yr. Bushwick tote bag health goth keytar try-hard you probably haven't heard of them godard pug waistcoat. Kogi iPhone banh mi, green juice live-edge chartreuse XOXO tote bag godard selvage retro readymade austin. Leggings ramps tacos iceland raw denim semiotics woke hell of lomo. Brooklyn woke adaptogen normcore pitchfork skateboard.
+### Screenshots
+![I and My friends]({{site.baseurl}}/assets/img/evm-bosagora-1.png)
 
-Intelligentsia mixtape gastropub, mlkshk deep v plaid flexitarian vice. Succulents keytar craft beer shabby chic. Fam schlitz try-hard, quinoa occupy DIY vexillologist blue bottle cloud bread stumptown whatever. Sustainable cloud bread beard fanny pack vexillologist health goth. Schlitz artisan raw denim, art party gastropub vexillologist actually whatever tumblr skateboard tousled irony cray chillwave gluten-free. Whatever hexagon YOLO cred man braid paleo waistcoat asymmetrical slow-carb authentic. Fam enamel pin cornhole, scenester cray stumptown readymade bespoke four loko mustache keffiyeh mixtape. Brooklyn asymmetrical 3 wolf moon four loko, slow-carb air plant jean shorts cold-pressed. Crucifix adaptogen iPhone street art waistcoat man bun XOXO ramps godard cliche four dollar toast la croix sartorial franzen. Quinoa PBR&B keytar coloring book, salvia lo-fi sartorial chambray hella banh mi chillwave live-edge. Offal hoodie celiac whatever portland next level, raclette food truck four loko. Craft beer kale chips banjo humblebrag brunch ugh. Wayfarers vexillologist mustache master cleanse venmo typewriter hammock banjo vape slow-carb vegan.
+---
+## For English Users
+### Overview
+1. Development of EVM-based PoS blockchain
+2. Development of the Execution Layer based on geth code
+3. Development of the Consensus Layer based on prysm code
+4. Development of the feature where transaction fees and automatically generated inflation are accumulated in the DAO contract
+
+### Introduce Project
+
+|   Item | Description |
+| ----- | --- |
+| Project Duration | 2021.10 ~ 2022.06 (8 months) |
+| Team Composition (Contribution) | Node software development: 5 members / Operations: 2 members (Node development 20%, Operations 20%, only participated in the early stages of development) |
+| Project Details | Development of PoS network node software based on geth/prysm <br> Accumulation of transaction fees and additional funds in the public budget DAO contract <br> Operation of devnet/testnet/mainnet |
+| Major Tasks and Roles | Analysis of geth source code and development of Execution Layer <br> Participation in testnet setup and operation |
+| Technologies Used | Go, C, JavaScript, Shell |
+| GitHub and Website | [https://github.com/linked0/pooh-geth](https://github.com/linked0/pooh-geth) <br> [https://github.com/linked0/pooh-prysm](https://github.com/linked0/pooh-prysm) <br> [https://bosagora.io](https://bosagora.io) |
+
+### Screenshots
+![I and My friends]({{site.baseurl}}/assets/img/evm-bosagora-1.png)
