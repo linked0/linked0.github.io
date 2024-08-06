@@ -22,14 +22,14 @@ Development of a blockchain network based on the Federated Byzantine Agreement (
 
 ### Introduce Project
 
-| Item                            | Description                                                                                                                                                                                          |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Project Duration                | 2009 ~ 2022.04 (2 years 7 months)                                                                                                                                                                    |
-| Team Composition (Contribution) | Core network development 9 members, SDK development 2 members <br> (Core network development: 100%)                                                                                                  |
-| Project Details                 | Applied FBA (similar to PoS) consensus algorithm and communication algorithm <br> Developed validator candidate registration and selection algorithm <br> Applied inflation policy for public budget |
-| Major Tasks and Roles           | Developed block creation processing part <br> Developed validator registration and selection algorithm                                                                                               |
-| Technologies Used               | D, C/C++, Shell, AWS, EC2, Docker                                                                                                                                                                    |
-| GitHub and Website              | [https://github.com/bosagora/agora](https://github.com/bosagora/agora) <br> [https://medium.com/@bosagorablog](https://medium.com/@bosagorablog)                                                     |
+| Item                            | Description                                                                                                                                                                                                                                                                                |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Project Duration                | 2009 ~ 2022.04 (2 years 7 months)                                                                                                                                                                                                                                                          |
+| Team Composition (Contribution) | Core network development 9 members, SDK development 2 members <br> (Core network development: 100%)                                                                                                                                                                                        |
+| Project Details                 | Applied FBA (similar to PoS) consensus algorithm and communication algorithm <br> Developed validator candidate registration and selection algorithm <br> Applied inflation policy for public budget                                                                                       |
+| Major Tasks and Roles           | Developed block creation processing part <br> Developed validator registration and selection algorithm                                                                                                                                                                                     |
+| Technologies Used               | D, C/C++, Shell, AWS, EC2, Docker                                                                                                                                                                                                                                                          |
+| GitHub and Website              | [https://github.com/bosagora/agora](https://github.com/bosagora/agora) <br> [https://github.com/bosagora/agora/commits/v0.x.x/?author=linked0](https://github.com/bosagora/agora/commits/v0.x.x/?author=linked0) <br> [https://medium.com/@bosagorablog](https://medium.com/@bosagorablog) |
 
 ### Screenshots
 ![Image 1]({{site.baseurl}}/assets/img/bosagora-1.png)
@@ -47,14 +47,14 @@ Development of a blockchain network based on the Federated Byzantine Agreement (
 
 ### Introduce Project
 
-| 항목                   | 내용                                                                                                                                                      |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 작업 기간              | 2009.09 ~ 2022.04 (2년 7개월)                                                                                                                             |
-| 인력 구성(기여도)      | 네트워크 코어 개발 9명  SDK 개발 2명  (코어 개발 100%)                                                                                                    |
-| 프로젝트 내용          | FBA(PoS와 유사) 합의 알고리즘 및 통신 알고리즘 적용 <br> 검증자(Validator) 후보 등록 및 선발 알고리즘 개발 <br> 공공예산을 위한 인플레이션 발생 정책 적용 |
-| 주요 업무 및 상세 역할 | 블록 생성 처리 부분 개발 <br> 검증자 등록 및 선정 알고리즘 개발                                                                                           |
-| 사용 기술              | D, C/C++, Shell, AWS, EC2, Docker                                                                                                                         |
-| 깃헙 및 사이트         | [https://github.com/bosagora/agora](https://github.com/bosagora/agora) <br> [https://medium.com/@bosagorablog](https://medium.com/@bosagorablog)          |
+| 항목                   | 내용                                                                                                                                                                                                                                                                                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 작업 기간              | 2009.09 ~ 2022.04 (2년 7개월)                                                                                                                                                                                                                                                              |
+| 인력 구성(기여도)      | 네트워크 코어 개발 9명  SDK 개발 2명  (코어 개발 100%)                                                                                                                                                                                                                                     |
+| 프로젝트 내용          | FBA(PoS와 유사) 합의 알고리즘 및 통신 알고리즘 적용 <br> 검증자(Validator) 후보 등록 및 선발 알고리즘 개발 <br> 공공예산을 위한 인플레이션 발생 정책 적용                                                                                                                                  |
+| 주요 업무 및 상세 역할 | 블록 생성 처리 부분 개발 <br> 검증자 등록 및 선정 알고리즘 개발                                                                                                                                                                                                                            |
+| 사용 기술              | D, C/C++, Shell, AWS, EC2, Docker                                                                                                                                                                                                                                                          |
+| GitHub and Website     | [https://github.com/bosagora/agora](https://github.com/bosagora/agora) <br> [https://github.com/bosagora/agora/commits/v0.x.x/?author=linked0](https://github.com/bosagora/agora/commits/v0.x.x/?author=linked0) <br> [https://medium.com/@bosagorablog](https://medium.com/@bosagorablog) |
 
 
 ### Screenshots
