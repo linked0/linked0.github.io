@@ -52,7 +52,6 @@ Development of EVM-based Blockchain Network (Bosagora)
 | 주요 업무 및 상세 역할 | geth 소스 분석 및 Execution Layer 개발 <br> 테스트넷 구성 운영 참여                                                                                                                                              |
 | 사용 기술              | Go, C, JavaScript, Shell                                                                                                                                                                                         |
 | 깃헙 및 사이트         | [https://github.com/linked0/pooh-geth](https://github.com/linked0/pooh-geth) <br> [https://github.com/linked0/pooh-prysm](https://github.com/linked0/pooh-prysm) <br> [https://bosagora.io](https://bosagora.io) |
-|                        |
 
 
 ### Screenshots
