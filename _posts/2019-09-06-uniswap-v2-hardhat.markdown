@@ -35,7 +35,7 @@ Analysis of Uniswap's smart contracts, merging of v2-core and v2-periphery, and 
 Uniswap 스마트 컨트랙트 분석, v2-core와 v2-periphery 통합, 개발 및 테스트 효율성을 향상시키기 위한 Hardhat으로의 마이그레이션
 
 ### Overview
-1. Uniswap v2-core와 v2-periphery 스마트 계약의 구조와 기능을 이해하기 위해 분석함
+1. Uniswap v2-core와 v2-periphery 스마트 계약의 구조와 기능을 분석함
 2. Uniswap v2-core와 v2-periphery 레포지토리를 하나의 프로젝트로 병합하여 코드베이스를 통합함
 3. 통합된 Uniswap 프로젝트를 Hardhat 개발 환경으로 마이그레이션하여 개발 및 테스트의 효율성을 향상시킴
 4. 개인적인 개발 및 테스트 목적으로 이 프로젝트를 수행함
