@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "05. Smart Contract Hacking"
+title: "Smart Contract Hacking"
 date: 2024-06-01 00:00:05 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: hacking-title.jpeg
