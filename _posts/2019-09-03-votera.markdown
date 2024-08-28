@@ -15,19 +15,19 @@ DAO Governance System (Votera)
 
 ### Overview
 1. Development of a DAO system for network improvement and foundation fund management
-2. Whenever a transaction occurs on the Bosagora network, funds are accumulated in the DAO contract in the form of inflation.
+2. On the Bosagora network, transaction funds accumulate in the DAO contract through inflation
 3. Various proposals are submitted to utilize the accumulated funds, and these proposals are selected and funds are executed based on the votes of validators.
 
 ### Introduce Project
 
-| Item                            | Description                                                                                                                                                                                                                                           |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Project Duration                | 2022.05 ~ 2022.10 (6 months)                                                                                                                                                                                                                          |
-| Team Composition (Contribution) | Contract development: 2 members,  Web: 1 member,  Server: 1 member <br> (Contract development: 100%)                                                                                                                                                  |
-| Project Details                 | Development of contracts for processes such as proposal storage, voting, and ballot counting <br> Development of UI for proposal creation and voting via mobile or web <br> Function to store votes on the server before counting to ensure anonymity |
-| Major Tasks and Roles           | Smart contract development <br> Deployment and operational testing                                                                                                                                                                                    |
-| Technologies Used               | Solidity, TypeScript, Hardhat                                                                                                                                                                                                                         |
-| GitHub and Website              | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract)                                                                                                                                            |
+| Item                            | Description                                                                                                                                                                                                             |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Duration                | 2022.05 ~ 2022.10 (6 months)                                                                                                                                                                                            |
+| Team Composition (Contribution) | Contract development: 2 members,  Web: 1 member,  Server: 1 member <br> (Contract development: 100%)                                                                                                                    |
+| Project Details                 | Developed contracts for proposals, voting, and ballot counting <br> Development of UI for proposal creation and voting via mobile or web <br> Function to store votes on the server before counting to ensure anonymity |
+| Major Tasks and Roles           | Smart contract development <br> Deployment and operational testing                                                                                                                                                      |
+| Technologies Used               | Solidity, TypeScript, Hardhat                                                                                                                                                                                           |
+| GitHub and Website              | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract)                                                                                                              |
 
 ### Screenshots
 ![Image 1]({{site.baseurl}}/assets/img/votera-1.png)

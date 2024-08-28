@@ -17,7 +17,7 @@ Development of EVM-based Blockchain Network (Bosagora)
 1. Development of EVM-based PoS blockchain
 2. Development of the Execution Layer based on geth code
 3. Development of the Consensus Layer based on prysm code
-4. Development of the feature where transaction fees and automatically generated inflation are accumulated in the DAO contract
+4. Developed a feature to accumulate transaction fees and inflation in the DAO contract
 
 ### Introduce Project
 
