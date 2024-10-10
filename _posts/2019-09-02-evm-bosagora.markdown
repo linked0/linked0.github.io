@@ -24,7 +24,7 @@ Development of EVM-based Blockchain Network (Bosagora)
 | Item                     | Description                                                                                                                                                                                                      |
 |--------------------------| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Project Duration         | 2021.04 ~ 2022.01 (10 months)                                                                                                                                                                                    |
-| Team Composition (My Role) | Execution/Consensus layer development: 5 members, Web Development/Operations: 4 members <br>  (Execution/Consensus development: 70%, Test network operation: 30%)                                                |
+| Team Composition<br>(My Role) | Execution/Consensus layer development: 5 members, Web Development/Operations: 4 members <br>  (Execution/Consensus development: 70%, Test network operation: 30%)                                                |
 | Project Details          | Forking and modifying Ethereum geth/prysm <br> Accumulation of transaction fees and additional funds in the public budget DAO contract <br> Operation of devnet/testnet/mainnet                                  |
 | Major Tasks      | Analysis of geth source code and development of Execution Layer <br> Participation in testnet setup and operation                                                                                                |
 | Technologies Used        | Go, C, JavaScript, Shell                                                                                                                                                                                         |
@@ -44,13 +44,13 @@ Development of EVM-based Blockchain Network (Bosagora)
 
 ### Introduce Project
 
-| 항목         | 내용                                                                                                                                                                                                             |
-|------------| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 작업 기간      | 2021.04 ~ 2022.01 (10개월)                                                                                                                                                                                       |
-| 인력 구성(역할)  | Execution/Consensus 레이어 개발 5명, 웹 개발 및 운영 4명 (Execution/Consensus 개발 70%, 테스트 네트워크 운영 30%)                                                                                                |
+| 항목         | 내용                                                                                                                                                                                                            |
+|------------| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 작업 기간      | 2021.04 ~ 2022.01 (10개월)                                                                                                                                                                                      |
+| 인력 구성<br>(역할)  | Execution/Consensus 레이어 개발 5명, 웹 개발 및 운영 4명<br>(Execution/Consensus 개발 70%, 테스트 네트워크 운영 30%)                                                                                                |
 | 프로젝트 내용    | 이더리엄 geth/prysm 포크 및 수정 <br> 공공예산 DAO 컨트랙트에 트랜잭션 수수료 및 추가 자금 적립 <br> 데브넷/테스트넷/메인넷 운영                                                                                 |
-| 주요 업무  | geth 소스 분석 및 Execution Layer 개발 <br> 테스트넷 구성 운영 참여                                                                                                                                              |
-| 사용 기술      | Go, C, JavaScript, Shell                                                                                                                                                                                         |
+| 주요 업무  | geth 소스 분석 및 Execution Layer 개발 <br> 테스트넷 구성 운영 참여                                                                                                                                             |
+| 사용 기술      | Go, C, JavaScript, Shell                                                                                                                                                                                        |
 | 깃헙 및 사이트   | [https://github.com/linked0/pooh-geth](https://github.com/linked0/pooh-geth) <br> [https://github.com/linked0/pooh-prysm](https://github.com/linked0/pooh-prysm) <br> [https://bosagora.io](https://bosagora.io) |
 
 

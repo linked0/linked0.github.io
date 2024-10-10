@@ -18,14 +18,14 @@ NFT Marketplace (BoaSpace)
 
 ### Introduce Project
 
-| Item                       | Description                                                                                                                                                                                                                                 |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Project Duration           | 2022.09 ~ 2023.04 (8 months)                                                                                                                                                                                                                |
-| Team Composition (My Role) | Smart Contract: 1 member, Front-end: 1 member, Back-end: 1 member <br> (Contract development: 100%)                                                                                                                                         |
-| Project Details            | Modified and deployed NFT exchange contracts on Bosagora. <br> Reverse-engineered the OpenSea web page to develop the web and server <br> Cryptocurrency wallet integration for web page                                                    |
-| Major Tasks       | Smart contract development <br> Developed Node.js SDK for contract calls <br> Mainnet deployment and operational testing                                                                                                                    |
-| Technologies Used          | Ethereum, Solidity, TypeScript, Hardhat, React, GraphQL, MikroORM, AWS, MetaMask                                                                                                                                                            |
-| GitHub and Website         | [https://github.com/linked0/boa-space-contracts](https://github.com/linked0/boa-space-contracts) <br> [https://github.com/linked0/boa-space-seaport-js](https://github.com/linked0/boa-space-seaport-js) <br> [https://boaspace.io/](https://boaspace.io/) |
+| Item                      | Description                                                                                                                                                                                                                                |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project Duration          | 2022.09 ~ 2023.04 (8 months)                                                                                                                                                                                                               |
+| Team Composition<br>(My Role) | Smart Contract: 1 member, Front-end: 1 member, Back-end: 1 member <br>(Contract development: 100%)                                                                                                                                         |
+| Project Details           | Modified and deployed NFT exchange contracts on Bosagora. <br> Reverse-engineered the OpenSea web page to develop the web and server <br> Cryptocurrency wallet integration for web page                                                   |
+| Major Tasks       | Smart contract development <br> Developed Node.js SDK for contract calls <br> Mainnet deployment and operational testing                                                                                                                   |
+| Technologies Used         | Ethereum, Solidity, TypeScript, Hardhat, React, GraphQL, MikroORM, AWS, MetaMask                                                                                                                                                           |
+| GitHub and Website        | [https://github.com/linked0/boa-space-contracts](https://github.com/linked0/boa-space-contracts) <br> [https://github.com/linked0/boa-space-seaport-js](https://github.com/linked0/boa-space-seaport-js) <br> [https://boaspace.io/](https://boaspace.io/) |
 
 ### Screenshots
 ![Image 1]({{site.baseurl}}/assets/img/boaspace-1.png)
@@ -38,14 +38,14 @@ NFT Marketplace (BoaSpace)
 
 ### Introduce Project
 
-| 항목                            | 내용                                                                                                                                                                                                                                                         |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 작업 기간                         | 2022.09 ~ 2023.04 (8개월)                                                                                                                                                                                                                                    |
-| 인력 구성(역할)                     | 스마트 컨트랙트 1 명, 프론트엔드 1명, 백엔드 1명   (컨트랙트 개발 100%)                                                                                                                                                                                                            |
-| 프로젝트 내용                       | OpenSea 컨트랙트 분석/수정한 후 Bosagora 네트워크에 배포 <br>                                                                                                                                                                                                               |
+| 항목                            | 내용                                                                                                                                                                                                                                                      |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 작업 기간                         | 2022.09 ~ 2023.04 (8개월)                                                                                                                                                                                                                                 |
+| 인력 구성<br>(역할)                     | 스마트 컨트랙트 1 명, 프론트엔드 1명, 백엔드 1명<br>(컨트랙트 개발 100%)                                                                                                                                                                                                            |
+| 프로젝트 내용                       | OpenSea 컨트랙트 분석/수정한 후 Bosagora 네트워크에 배포 <br>                                                                                                                                                                                                            |
 | OpenSea 웹 페이지를 역공학하여 웹과 서버 개발 |
-| 주요 업무              | 스마트 컨트랙트 개발 <br> 컨트랙트 호출을 위한 Node.js용 SDK 개발 <br> 메인넷 배포 및 운영 테스트<br> 웹 페이지에서 암호화폐 지갑 연동하는 부분 개발                                                                                                                                                           |
-| 사용 기술                         | Ethereum, Solidity, TypeScript, Hardhat, React, GraphQL, MikroORM, AWS, MetaMask                                                                                                                                                                           |
+| 주요 업무              | 스마트 컨트랙트 개발 <br> 컨트랙트 호출을 위한 Node.js용 SDK 개발 <br> 메인넷 배포 및 운영 테스트<br> 웹 페이지에서 암호화폐 지갑 연동하는 부분 개발                                                                                                                                                        |
+| 사용 기술                         | Ethereum, Solidity, TypeScript, Hardhat, React, GraphQL, MikroORM, AWS, MetaMask                                                                                                                                                                        |
 | 깃헙 및 사이트                      | [https://github.com/linked0/boa-space-contracts](https://github.com/linked0/boa-space-contracts) <br> [https://github.com/linked0/boa-space-seaport-js](https://github.com/linked0/boa-space-seaport-js) <br> [https://boaspace.io/](https://boaspace.io/) |
 
 

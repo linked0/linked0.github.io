@@ -20,14 +20,14 @@ DAO Governance System (Votera)
 
 ### Introduce Project
 
-| Item                       | Description                                                                                                                                                                                                             |
-|----------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Project Duration           | 2022.02 ~ 2022.08 (7 months)                                                                                                                                                                                            |
-| Team Composition (My Role) | Contract development: 2 members,  Web: 1 member,  Server: 1 member <br> (Contract development: 100%)                                                                                                                    |
-| Project Details            | Developed contracts for proposals, voting, and ballot counting <br> Development of UI for proposal creation and voting via mobile or web <br> Function to store votes on the server before counting to ensure anonymity |
-| Major Tasks      | Smart contract development <br> Deployment and operational testing                                                                                                                                                      |
-| Technologies Used          | Solidity, TypeScript, Hardhat                                                                                                                                                                                           |
-| GitHub and Website         | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract)                                                                                                              |
+| Item                      | Description                                                                                                                                                                                                            |
+|---------------------------| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Duration          | 2022.02 ~ 2022.08 (7 months)                                                                                                                                                                                           |
+| Team Composition<br>(My Role) | Contract development: 2 members,  Web: 1 member,  Server: 1 member <br>(Contract development: 100%)                                                                                                                    |
+| Project Details           | Developed contracts for proposals, voting, and ballot counting <br> Development of UI for proposal creation and voting via mobile or web <br> Function to store votes on the server before counting to ensure anonymity |
+| Major Tasks      | Smart contract development <br> Deployment and operational testing                                                                                                                                                     |
+| Technologies Used         | Solidity, TypeScript, Hardhat                                                                                                                                                                                          |
+| GitHub and Website        | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract)                                                                                                             |
 
 ### Screenshots
 ![Image 1]({{site.baseurl}}/assets/img/votera-1.png)
