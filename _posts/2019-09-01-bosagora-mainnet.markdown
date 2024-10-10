@@ -37,7 +37,7 @@ Development of a blockchain network based on the Federated Byzantine Agreement (
 ![Image 3]({{site.baseurl}}/assets/img/bosagora-3.png)
 
 ---
-## For Korean Users
+## Korean Version
 ### Overview
 1. 2019년에 Bosagora Foundation에서 개발을 시작한 블록체인 네트워크
 2. 한국 최초 ICO ([기사 참조](https://www.the-blockchain.com/2017/05/06/south-koreas-boscoin-announces-ico-may-10th-2017/))

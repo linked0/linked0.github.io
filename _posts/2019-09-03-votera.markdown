@@ -33,7 +33,7 @@ DAO Governance System (Votera)
 ![Image 1]({{site.baseurl}}/assets/img/votera-1.png)
 
 ---
-## For Korean Users
+## Korean Version
 
 ### Overview
 1. 네트워크 개선 및 재단 자금 운영을 위한 DAO 시스템 개발

@@ -34,7 +34,7 @@ zkSync L2 Layer Test and Analysis
 ![Image 1]({{site.baseurl}}/assets/img/zksync-1.png)
 
 ---
-## For Korean Users
+## Korean Version
 
 ### Overview
 1. zkSync L2 프로젝트 분석

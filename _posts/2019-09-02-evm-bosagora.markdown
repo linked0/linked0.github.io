@@ -34,7 +34,7 @@ Development of EVM-based Blockchain Network (Bosagora)
 ![Image 1]({{site.baseurl}}/assets/img/evm-bosagora-1.png)
 
 ---
-## For Korean Users
+## Korean Version
 
 ### Overview
 1. EVM 기반의 PoS 블록체인 개발

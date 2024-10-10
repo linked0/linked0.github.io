@@ -31,7 +31,7 @@ NFT Marketplace (BoaSpace)
 ![Image 1]({{site.baseurl}}/assets/img/boaspace-1.png)
 
 ---
-## For Korean Users
+## Korean Version
 ### Overview
 1. Bosagora 네트워크상에서 NFT 거래를 위한 마켓 플레이스 개발
 2. OpenSea v2.0 코드 기반으로 작업 진행

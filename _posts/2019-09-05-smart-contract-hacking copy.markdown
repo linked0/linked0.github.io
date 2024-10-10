@@ -30,7 +30,7 @@ Smart contract hacking exercises with the solutions.
 
 
 ---
-## For Korean Users
+## Korean Version
 
 ### Overview
 1. 스마트 컨트랙트 해킹 사례를 정리

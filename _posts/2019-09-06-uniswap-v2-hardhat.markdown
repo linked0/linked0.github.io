@@ -31,7 +31,7 @@ Analysis of Uniswap's smart contracts, merging of v2-core and v2-periphery, and 
 
 
 ---
-## For Korean Users
+## Korean Version
 Uniswap 스마트 컨트랙트 분석, v2-core와 v2-periphery 통합, 개발 및 테스트 효율성을 향상시키기 위한 Hardhat으로의 마이그레이션
 
 ### Overview
