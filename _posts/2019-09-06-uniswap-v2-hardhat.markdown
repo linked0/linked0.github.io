@@ -20,14 +20,14 @@ Analysis of Uniswap's smart contracts, merging of v2-core and v2-periphery, and 
 
 ### Introduce Project
 
- | Item                            | Description                                                                                    |
- | ------------------------------- | ---------------------------------------------------------------------------------------------- |
- | Project Duration                | 2024.01 ~ 2024.03(3 months)                                                                    |
- | Team Composition (Contribution) | Contract development: 1 member <br> (Contract development: 100%)                               |
- | Project Details                 | Understanding token swap algorithm <br> Setting up Hardhat environment                         |
- | Major Tasks and Roles           | Smart contract analysis <br> Development of test code                                          |
- | Technologies Used               | Solidity, TypeScript, JavaScript, Hardhat                                                      |
- | GitHub and Website              | [https://github.com/linked0/uniswap-v2-hardhat](https://github.com/linked0/uniswap-v2-hardhat) |
+ | Item                       | Description                                                                                    |
+ |----------------------------| ---------------------------------------------------------------------------------------------- |
+ | Project Duration           | 2024.01 ~ 2024.03(3 months)                                                                    |
+ | Team Composition (My Role) | Contract development: 1 member <br> (Contract development: 100%)                               |
+ | Project Details            | Understanding token swap algorithm <br> Setting up Hardhat environment                         |
+ | Major Tasks      | Smart contract analysis <br> Development of test code                                          |
+ | Technologies Used          | Solidity, TypeScript, JavaScript, Hardhat                                                      |
+ | GitHub and Website         | [https://github.com/linked0/uniswap-v2-hardhat](https://github.com/linked0/uniswap-v2-hardhat) |
 
 
 ---
@@ -42,12 +42,12 @@ Uniswap 스마트 컨트랙트 분석, v2-core와 v2-periphery 통합, 개발 �
    
 ### Introduce Project
 
-| 항목                   | 내용                                                                                               |
-| ---------------------- | -------------------------------------------------------------------------------------------------- |
-| 작업 기간              | 2024.01 ~ 2024.03(3개월)                                                                           |
-| 인력 구성(기여도)      | 컨트랙트 개발 1 명 (컨트랙트 개발 100%)                                                            |
-| 프로젝트 내용          | 토큰 스왑 알고리즘 이해 <br> Hardhat 환경 설정                                                     |
-| 주요 업무 및 상세 역할 | 스마트 컨트랙트 분석 <br> 테스트 코드 개발                                                         |
-| 사용 기술              | Solidity, TypeScript, JavaScript, Hardhat                                                          |
-| 깃헙 및 사이트         | [https://github.com/linked0/smart-contract-hacking](https://github.com/linked0/uniswap-v2-hardhat) |
+| 항목            | 내용                                                                                               |
+|---------------| -------------------------------------------------------------------------------------------------- |
+| 작업 기간         | 2024.01 ~ 2024.03(3개월)                                                                           |
+| 인력 구성(역할)     | 컨트랙트 개발 1 명 (컨트랙트 개발 100%)                                                            |
+| 프로젝트 내용       | 토큰 스왑 알고리즘 이해 <br> Hardhat 환경 설정                                                     |
+| 주요 업무 | 스마트 컨트랙트 분석 <br> 테스트 코드 개발                                                         |
+| 사용 기술         | Solidity, TypeScript, JavaScript, Hardhat                                                          |
+| 깃헙 및 사이트      | [https://github.com/linked0/smart-contract-hacking](https://github.com/linked0/uniswap-v2-hardhat) |
 

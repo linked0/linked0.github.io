@@ -9,6 +9,8 @@ uglifyjs index.js -o index-min.js
 ```
 
 ```
+npm install
+sudo gem install bundler:2.3.26
 bundle update
 bundle exec jekyll serve
 ```
