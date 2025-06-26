@@ -27,7 +27,7 @@ DAO Governance System (Votera)
 | Project Details           | Developed contracts for proposals, voting, and ballot counting <br> Development of UI for proposal creation and voting via mobile or web <br> Function to store votes on the server before counting to ensure anonymity |
 | Major Tasks      | Smart contract development <br> Deployment and operational testing                                                                                                                                                     |
 | Technologies Used         | Solidity, TypeScript, Hardhat                                                                                                                                                                                          |
-| GitHub and Website        | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract)                                                                                                             |
+| GitHub and Website        |  [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract/tree/v1.x.x) <br> [https://github.com/bosagora/votera-server-v1](https://github.com/bosagora/votera-server-v1)  <br> [https://github.com/bosagora/votera-app-v1](https://github.com/bosagora/votera-app-v1) <br> [https://medium.com/@bosagorablog](https://medium.com/@bosagorablog)     |
 
 ### Screenshots
 ![Image 1]({{site.baseurl}}/assets/img/votera-1.png)
@@ -49,7 +49,7 @@ DAO Governance System (Votera)
 | 프로젝트 내용    | 제안 저장, 투표, 개표 등의 과정을 컨트랙트로 개발 <br> 모바일이나 웹을 통해서 제안을 생성하고, 투표하는 UI 개발 <br> 익명성 보장을 위하여, 개표전 투표 내용을 서버에 보관하는 기능   |
 | 주요 업무  | 스마트 컨트랙트 개발 <br> 배포 및 운영 테스트                                                                                                                                        |
 | 사용 기술      | Solidity, TypeScript, Hardhat                                                                                                                                                        |
-| 깃헙 및 사이트   | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract) <br> [https://medium.com/@bosagorablog](https://medium.com/@bosagorablog) |
+| 깃헙 및 사이트   | [https://github.com/bosagora/commons-budget-contract](https://github.com/bosagora/commons-budget-contract/tree/v1.x.x) <br> [https://github.com/bosagora/votera-server-v1](https://github.com/bosagora/votera-server-v1)  <br> [https://github.com/bosagora/votera-app-v1](https://github.com/bosagora/votera-app-v1) <br> [https://medium.com/@bosagorablog](https://medium.com/@bosagorablog)  |
 
 
 ### Screenshots
