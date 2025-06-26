@@ -3,16 +3,32 @@
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
 ## Create index-min.js
+I think these are for other version, so ignore it.
 ```
 npm install -g uglify-js
 uglifyjs index.js -o index-min.js
 ```
 
+Install the latest Ruby env (rbenv recommended)
+```
+brew install rbenv
+rbenv install 3.2.2
+rbenv global 3.2.2
+```
+
 ```
 npm install
-sudo gem install bundler:2.3.26
+bundle install
 bundle update
 bundle exec jekyll serve
+```
+
+### If errors occurs
+Install the latest Ruby env (rbenv recommended)
+```
+brew install rbenv
+rbenv install 3.2.2
+rbenv global 3.2.2
 ```
 
 ## Demo
